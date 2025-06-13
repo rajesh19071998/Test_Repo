@@ -1,3 +1,0 @@
-[submodule "build/deps/ota_mit_app"]
-	path = build/deps/ota_mit_app
-	url = https://github.com/rajesh19071998/OTA_MIT_APP.git
