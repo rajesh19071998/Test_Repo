@@ -8,6 +8,7 @@ REM commneted _gen and _out folder copy since we are not using
 REM AUTHOR: Config Team
 REM ******************************************************
 
+git submodule add https://github.com/rajesh19071998/OTA_MIT_APP.git build/deps/ota_mit_app
 git submodule init
 git submodule update
 
